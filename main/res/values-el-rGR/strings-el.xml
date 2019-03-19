@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookWorm</string>
+    <string name="options_all">Όλα</string>
+    <string name="options_top3">Καλύτερα 3</string>
+    <string name="options_bottom3">Χειρότερα 3</string>
+    <string name="title">Τίτλος:</string>
+    <string name="titleEdit">τίτλος</string>
+    <string name="author">Συγγραφέας:</string>
+    <string name="authorEdit">συγγραφέας</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="options">Επιλογές</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="deleteQuestion">Είσαι σίγουρος ότι θέλεις να διαγράψεις αυτό το βιβλίο;</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Όχι</string>
+    <string name="newBook">Νέο βιβλίο</string>
+    <string name="the">Το</string>
+    <string name="added">προστέθηκε στη λίστα.</string>
+    <string name="alreadyExists">υπάρχει ήδη στη λίστα.</string>
+    <string name="ok">ΟΚ</string>
+    <string name="changesSaved">Οι αλλαγές αποθηκεύτηκαν.</string>
+    <string name="noChanges">Αδύνατη αποθήκευση αλλαγών.</string>
+    <string name="invalid">Μη έγκυρος τίτλος.</string>
+</resources>

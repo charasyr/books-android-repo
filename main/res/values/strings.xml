@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BookWorm</string>
+    <string name="options_all">All</string>
+    <string name="options_top3">Top 3</string>
+    <string name="options_bottom3">Bottom 3</string>
+    <string name="title">Title:</string>
+    <string name="titleEdit">title</string>
+    <string name="author">Author:</string>
+    <string name="authorEdit">author</string>
+    <string name="save">Save</string>
+    <string name="options">Options</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="deleteQuestion">Are you sure you want to delete this entry?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="newBook">New book</string>
+    <string name="the">The</string>
+    <string name="added">was added.</string>
+    <string name="alreadyExists">already exists.</string>
+    <string name="ok">OK</string>
+    <string name="changesSaved">Changes were saved.</string>
+    <string name="noChanges">Couldn\'t save any changes.</string>
+    <string name="invalid">Invalid input.</string>
+</resources>
